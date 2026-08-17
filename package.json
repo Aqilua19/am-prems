@@ -1,0 +1,8 @@
+{
+  "name": "ampremium-kaaoffc",
+  "version": "2.0.0",
+  "description": "Am Premium Web — by KaaOffc (Vercel + Firebase)",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
