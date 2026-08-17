@@ -7,7 +7,7 @@ const CONFIG = {
     // ── Proxy (kosongkan jika pakai server.js di port sama) ──
     // Isi jika deploy ke VPS dengan URL berbeda:
     // PROXY_URL : 'https://namaserver.vercel.app',
-    PROXY_URL : '',
+    PROXY_URL : 'https://motion-prems.vercel.app',
 
     // ── Music Player ─────────────────────────────────────────
     MUSIC_VIDEO  : '',           // Link mp4 (video background player)
